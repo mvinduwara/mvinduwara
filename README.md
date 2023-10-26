@@ -5,7 +5,7 @@ I'm software developer
 ----------------------
 
 * ✉️  You can contact me at [mvinduwara@gmail.com](mailto:mvinduwara@gmail.com)
-* 🧠  I'm learning react native
+* 🧠  I'm learning react 
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
