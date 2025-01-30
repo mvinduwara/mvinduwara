@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack developer from Sri lanka</h3>
 
 <p align="center"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Ftherealmrmumba%2F5-tools-every-developer-should-master-before-their-next-interview-enn&psig=AOvVaw2qtU52IJCuUDaDmY3HHZN2&ust=1738306969849000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiY2KXwnIsDFQAAAAAdAAAAABBB" alt="" width="1000" height="500" " />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Ftherealmrmumba%2F5-tools-every-developer-should-master-before-their-next-interview-enn&psig=AOvVaw2qtU52IJCuUDaDmY3HHZN2&ust=1738306969849000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiY2KXwnIsDFQAAAAAdAAAAABBB" alt="" width="800" height="500" " />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvinduwara&label=Profile%20views&color=0e75b6&style=flat" alt="mvinduwara" /> </p>
