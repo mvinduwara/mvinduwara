@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack developer from Sri lanka</h3>
 
 <p align="center"> 
-    <img src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709671543058?e=1747267200&v=beta&t=1Y09fNVz1roTIWtJbk09BIKlAGr5kRR0F3sqkQ6_1io" alt="" width="950" height="500" " />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmYmJtcmw4OTN1NTQ4Ymk4MmE0c2lxYWhicGcyYWJjNXlxM3VwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="" width="950" height="500" " />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvinduwara&label=Profile%20views&color=0e75b6&style=flat" alt="mvinduwara" /> </p>
