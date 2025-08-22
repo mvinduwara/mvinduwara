@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **reach,java,php**
+- 💬 Ask me about **react,java,php**
 
 - 📫 How to reach me **manilka.codefiline@gmail.com**
 
