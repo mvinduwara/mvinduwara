@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react,java,php**
 
-- 📫 How to reach me **manilka.codefiline@gmail.com**
+- 📫 How to reach me **contact.manilka@gmail.com**
 
 - ⚡ Fun fact **There’s a hidden Mona Lisa in GitHub’s contributions graph! Zoom out far enough, and it appears.**
 
