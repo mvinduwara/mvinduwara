@@ -1,6 +1,6 @@
 <div align="center" justify="center" font-family="Poppins">
 <div align="center" >
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="About Me" width="750" height="500" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="About Me" width="650" height="450" />
 </div><br>
 
 ### 💼 About Me
