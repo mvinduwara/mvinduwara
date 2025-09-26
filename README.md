@@ -4,7 +4,7 @@
 </div><br>
 
 ### 💼 About Me
-I'm a Full-Stack Software Engineer with a passion for building scalable web applications, writing clean and maintainable code, and solving challenging problems. I enjoy working across the entire stack, from designing responsive front-end interfaces with React/Vue to building robust backend systems with Node.js, Laravel, or Spring Boot. I constantly explore new technologies and best practices to deliver high-quality solutions.
+I'm a Full-Stack Software Engineer with a passion for building scalable web applications, writing clean and maintainable code, and solving challenging problems. I enjoy working across the entire stack, from designing responsive front-end interfaces with React/Vue to building robust backend systems with Node.js, Laravel, or Spring Boot. I constantly explore new technologies and best practices to deliver high-quality solutions.<br>
 📍 Based in Sri Lanka | 🎓 University of Birmingham 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/manilka.vinduwara/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manilka_vinduwara/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manilka-vinduwara-84358528a) 
