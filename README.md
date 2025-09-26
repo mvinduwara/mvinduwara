@@ -16,7 +16,6 @@ I'm a Full-Stack Software Engineer with a passion for building scalable web appl
 ![](https://github-profile-trophy.vercel.app/?username=mvinduwara&theme=react&no-frame=true&no-bg=true&margin-w=4)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mvinduwara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mvinduwara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mvinduwara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
