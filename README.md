@@ -15,9 +15,6 @@ I'm a Full-Stack Software Engineer with a passion for building scalable web appl
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mvinduwara.mvinduwara&"  />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mvinduwara&icon=2&color=1)](https://visitcount.itsvg.in)
 </div>
