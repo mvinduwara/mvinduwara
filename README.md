@@ -15,7 +15,7 @@
       <b>Currently Learning:</b> Expanding my expertise into Linux administration and cloud infrastructure (AWS, Google Cloud, Azure).<br>
       <b>Architecture Focus:</b> Containerization (Docker) and modern monorepos.<br>
       <b>Based in:</b> Sri Lanka <br>
-      <b>Education:</b> University of Birmingham
+      <b>Education:</b> University of Birmingham / Java Institute For Advanced Technology
       </small>
     </td>
    <td width="50%" align="center" valign="middle">
