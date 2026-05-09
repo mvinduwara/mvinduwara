@@ -12,10 +12,10 @@
       <small>
       I'm a <b>Full-Stack Software Engineer</b> with a passion for building scalable web applications, writing clean and maintainable code, and solving challenging problems. I enjoy working across the entire stack, from designing responsive front-end interfaces with React/Vue to building robust backend systems with Node.js, Laravel, or Spring Boot. I constantly explore new technologies and best practices to deliver high-quality solutions.
       <br><br>
-      <b>Currently Learning:</b> Expanding my expertise into Linux administration and cloud infrastructure (AWS, Google Cloud, Azure).<br>
+      <b>Currently Learning:</b> Expanding my expertise into Linux administration and cloud infrastructure (AWS, Google Cloud).<br>
       <b>Architecture Focus:</b> Containerization (Docker) and modern monorepos.<br>
       <b>Based in:</b> Sri Lanka <br>
-      <b>Education:</b> University of Birmingham
+      <b>Education:</b> University of Birmingham / Java Institute Sri Lanka
       </small>
     </td>
     <td width="40%" align="center">
