@@ -52,5 +52,5 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mvinduwara.mvinduwara&" alt="Visitor Badge" />
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mvinduwara&icon=2&color=1" alt="Visit Count" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mvinduwara&icon=2&color=1" alt="" /></a>
 </div>
