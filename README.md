@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2C8EBB&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Manilka+Vinduwara;Full-Stack+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=2C8EBB&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Manilka+Vinduwara;Full-Stack+Software+Engineer" alt="Typing SVG" />
 </div>
 
 <br>
 
-### 👩‍💻 About Me
+#### 👩‍💻 About Me
 
 <table>
   <tr>
@@ -12,10 +12,10 @@
       <small>
       I'm a <b>Full-Stack Software Engineer</b> with a passion for building scalable web applications, writing clean and maintainable code, and solving challenging problems. I enjoy working across the entire stack, from designing responsive front-end interfaces with React/Vue to building robust backend systems with Node.js, Laravel, or Spring Boot. I constantly explore new technologies and best practices to deliver high-quality solutions.
       <br><br>
-         <b>Currently Learning:</b> Expanding my expertise into Linux administration and cloud infrastructure (AWS, Google Cloud, Azure).<br>
-         <b>Architecture Focus:</b> Containerization (Docker) and modern monorepos.<br>
-         <b>Based in:</b> Sri Lanka <br>
-         <b>Education:</b> University of Birmingham
+      <b>Currently Learning:</b> Expanding my expertise into Linux administration and cloud infrastructure (AWS, Google Cloud, Azure).<br>
+      <b>Architecture Focus:</b> Containerization (Docker) and modern monorepos.<br>
+      <b>Based in:</b> Sri Lanka <br>
+      <b>Education:</b> University of Birmingham
       </small>
     </td>
     <td width="40%" align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-### 💻 Technologies & Tools
+#### 💻 Technologies & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -38,7 +38,7 @@
 
 ---
 
-### 📫 Let's Connect
+#### 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manilka-vinduwara-84358528a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
